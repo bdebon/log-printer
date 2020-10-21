@@ -1,4 +1,4 @@
-pplication:
+application:
     name: log-printer-github
     project: log-printer-github
     publicly_accessible: true
