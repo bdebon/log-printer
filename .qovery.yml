@@ -1,11 +1,11 @@
 application:
-    name: log-printer-github
-    project: log-printer-github
-    publicly_accessible: true
-    ram: 512MB
-  routers:
-  - name: main
-    routes:
-    - application_name: log-printer-github
-      paths:
-      - /
+  name: log-printer-github
+  project: log-printer-github
+  publicly_accessible: true
+  ram: 512MB
+routers:
+- name: main
+  routes:
+  - application_name: log-printer-github
+    paths:
+    - /
